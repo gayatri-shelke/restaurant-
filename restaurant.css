@@ -1,0 +1,592 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #61122f;
+}
+.main_bar{
+    background-color:#f6b319;
+    height: 180px;
+    width: 101%;
+    flex-direction: column;
+}
+.logo{
+    margin-left: 10%;
+    position: relative;
+    top: -15px;
+}
+.heading{
+     margin-left: 20%;
+    color:#557c3e ;
+    position: relative;
+    top: 25px;
+    font-family: 'Lora', serif;
+    font-size: 1.5em;
+    text-shadow: 1px 1px 1px #222;
+
+}
+.star{
+    margin-left: 20px;
+    position: absolute;
+    top: 65px;
+}
+.logo_name{
+    position: absolute;
+    top: 75px;
+    margin-left: 3%;
+    font-size: 16px;
+
+}
+.fork_1{
+    margin-left: 60%;
+    height: 55px;
+    width: 55px;
+    position: relative;
+    top:-160px;
+    margin-right: 150%;
+    color: #61122f;
+
+}
+.paragraph_fork{
+    margin-left: 60%;
+    position: relative;
+    top: -160px;
+    color:#61122f ;
+    font-size:22px;
+}
+.about{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top:-251px;
+    margin-left: 66%;
+}
+.paragraph_about{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: -250px;
+    font-size:22px;
+    color:#61122f ;
+    margin-left: 66%;
+
+}
+.award{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top:-340px;
+    margin-left: 72%;
+    color:#61122f ;
+
+}
+.paragraph_award{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: -336px;
+    font-size:22px;
+
+    color:#61122f ;
+
+    margin-left: 72%;
+
+}
+
+.number{
+    margin-left: 78%;
+    position: relative;
+    top: -230%;
+    font-size: 36px;
+}
+.web_name{
+    margin-left: 84%;
+    position: relative;
+    top: -230%;
+    font-size: 18px;
+    color: #557c3e;
+}
+
+.house{
+    height: 60%;
+    width: 60%;
+    margin-left: 30%;
+    
+}
+.house_class{
+    position: relative;
+    top: -250px;
+    height: 900px;
+    width: 1300px;
+    margin-left: -25%;
+}
+ .dish_img{
+    margin-left: -160px; 
+    margin-top: -250px;
+
+}
+
+
+.first_img{
+    height: 230px;
+    width: 33%;
+    position: relative;
+    top:-30px ;
+    border: 2px solid #3F0C1F;
+    overflow: hidden;
+    margin-left: -10%;
+}
+.first_div{
+    background-color: black; 
+    height: 50px;
+    width: 420px;
+    position: relative;
+    top: 280px;
+    margin-left: -10%;
+    opacity: .8;
+    
+}
+.name_div{
+    color: blanchedalmond;
+    font-size: 24px;
+    position: relative;
+    top: 240px;
+    margin-left: 20px;
+
+    
+}
+
+.second_img{
+    height: 230px;
+    width: 33%;
+    position: relative;
+    top: -320px;
+    border: 2px solid #3F0C1F;
+    overflow: hidden;
+    margin-left: 25%;
+}
+.second_div{
+    background-color: black; 
+    height: 50px;
+    width: 420px;
+    position: relative;
+    top: -40px;
+    margin-left: 25%;
+    opacity: .8;
+    
+}
+.second_name{
+    color: blanchedalmond;
+    font-size: 24px;
+    margin-left: 460px;
+    position: absolute;
+    top:1450px ;
+    
+}
+
+.map{
+    height: 225px;
+    width: 33%;
+    position: relative;
+    top: -607px;
+    border: 2px solid #3F0C1F;
+    margin-left: 60%;
+}
+.third_div{
+    background-color: black; 
+    height: 50px;
+    width: 420px;
+    position: relative;
+    top: -330px;
+    margin-left: 60%;
+    opacity: .8;
+    
+}
+.name_div_3{
+    color: blanchedalmond;
+    font-size: 24px;
+    margin-left: 51%;
+    position: absolute;
+    top:1450px ; 
+    
+}
+.information_div{
+    background-color: #222;
+    height: 450px;
+    width:180%;
+    margin-left: -60%;
+    position: relative;
+    top: -450px;
+    
+}
+.heading_paragraph{
+    margin-left: 400px;
+    color: white;
+    font-size: 26px;
+    position: relative;
+    top: 20%;
+}
+.paragraph{
+    margin-left: 400px;
+    color: white;
+    font-size: 19px;
+    position: relative;
+    top: 25%;
+    font-family: 'Oxygen', sans-serif;
+
+}
+.heading_paragraph_1{
+    margin-left: 850px;
+    color: white;
+    font-size: 26px;
+    font-size: 'Oxygen', sans-serif;
+    position: relative;
+    top: -2%;
+}
+.Address{
+    margin-left: 850px;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 3%;
+}
+.Delivery{
+    margin-left: 850px;
+    color:#557c3e;
+    font-size: .8em;
+    position: relative;
+    top: 6%;
+    font-family: 'Oxygen', sans-serif;
+}
+.paragraph_1{
+    margin-left: 1300px;
+    color: white;
+    font-size: 19px;
+    position: relative;
+    top: -24%;
+    font-style: italic;
+}
+.paragraph_2{
+    margin-left: 1300px;
+    color: white;
+    font-size: 19px;
+    position: relative;
+    top: -20%;
+    font-style: italic;
+
+}
+.restaurant_name{
+    color: white;
+    font-size: 22px;
+    margin-left: 900px;
+}
+
+
+
+@media (max-width: 750px) {
+
+
+
+
+    *{
+    margin: 0px;
+    padding: 0px;
+
+    }
+
+    body{
+    background-color: #61122f;
+
+    } 
+
+    .main_bar{
+    background-color:#f6b319;
+    height: 588px;
+    width: 101%;
+    }
+    .logo{
+    margin-left: -39%;
+    }
+    .heading{
+        margin-left: 2%;
+    color:#557c3e ;
+    position: relative;
+    top: 57px;
+    font-family: 'Lora', serif;
+    font-size: 31px;
+    text-shadow: 1px 1px 1px #222;
+
+    }
+    .number{
+    margin-left: -42%;
+    position: relative;
+    top: 37%;
+    font-size: 36px;
+    }
+    .web_name{
+        margin-left: 29%;
+        position: relative;
+        top: 57%;
+        font-size: 24px;
+        color: white;
+    
+    }
+
+    .star{
+    margin-left: 4%;
+    position: absolute;
+    top: 114px;
+    }
+    .logo_name{
+    position: absolute;
+    top: 124px;
+    margin-left: 15%;
+    font-size: 16px;
+
+    }
+    .fork_1{
+    margin-left: 35%;
+    height: 49px;
+    width: 61px;
+    position: relative;
+    top:36px;
+    margin-right: 150%;
+
+    }
+    .paragraph_fork{
+    margin-left: 56%;
+    position: relative;
+    top: -47px;
+    color: #61122f;
+    font-size:27px;
+    }
+    .about{
+    height: 54px;
+    width: 57px;
+    position: relative;
+    top:52px;
+    margin-left: -36%;
+    
+
+    }
+    .paragraph_about{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    top: 27px;
+    margin-left: 6%;
+    color: #61122f;
+    font-size:27px;
+
+    }
+    .award{
+        height: 61px;
+        width: 62px;
+        position: relative;
+        top:134px;
+        margin-left: -36%;
+    
+    }
+    .paragraph_award{
+        height: 60px;
+        width: 60px;
+        position: relative;
+        top: 106px;
+        margin-left: 4%;
+        color: #61122f;
+        font-size:27px;
+    
+    }
+    .house{
+        height: 60%;
+        width: 60%;
+        margin-left: 30%;
+        
+    }
+    .house_class{
+        position: relative;
+        top: 421px;
+        height: 185px;
+        width: 328px;
+        margin-left: -32%;
+        border-color: black;
+    }
+    .dish_img{
+        margin-left: -160px;
+        margin-top: -200px;
+    
+    }
+    .first_img{
+        height: 114%;
+        width: 63%;
+        position: relative;
+        top:739px;
+        margin-left: 24%;
+    }
+    .first_div{
+        background-color: black; 
+        height: 52px;
+        width: 258px;
+        position: relative;
+        top: 999px;
+        margin-left: 24%;
+        opacity: .8;
+        
+    }
+    .name_div{
+        color: blanchedalmond;
+        font-size: 24px;
+        position: relative;
+        top: 965px;
+        margin-left: 200px;
+    
+        
+    }
+    
+    .second_img{
+        margin-left:25% ;
+        height: 52%;
+        width: 64%;
+        position: relative;
+        top:836px;
+        
+
+    }
+    .second_div{
+        background-color: black; 
+        height: 50px;
+        width: 262px;
+        position: relative;
+        top: 1068px;
+        margin-left: 25%;
+        opacity: .8;
+        
+    }
+    .second_name{
+        color: blanchedalmond;
+        font-size: 26px;
+        margin-left: 171px;
+        position: absolute;
+        top:1680px ;
+        
+    }
+    /* .third_img{
+        margin-left:20% ;
+        height: 57%;
+        width: 75%;
+        position: relative;
+        top:494px;
+    
+
+    } */
+    .map{
+        height: 220px;
+        width: 80%;
+        position: relative;
+        top: 945px;
+        border: 2px solid #3F0C1F;
+        margin-left: 16%;
+    }
+    .third_div{
+        background-color: black; 
+        height: 50px;
+        width: 330px;
+        position: relative;
+        top: 1217px;
+        margin-left: 16%;
+        opacity: .8;
+        
+    }
+    .name_div_3{
+        color: blanchedalmond;
+        font-size: 26px;
+        margin-left: 200px;
+        position: absolute;
+        top:2070px ; 
+        
+    }
+    .information_div{
+        background-color: #222;
+        height: 948px;
+        width: 500px;
+        margin-left: -60%;
+        position: relative;
+        top:1099px;
+        
+        
+    }
+    .heading_paragraph{
+        margin-left: 194px;
+        color: white;
+        font-size: 28px;
+        position: relative;
+        top: 7%;
+    }
+    .paragraph{
+        margin-left: 121px;
+        color: white;
+        font-size: 19px;
+        position: relative;
+        line-height: 1.7;
+        top: 13%;
+        font-family: 'Oxygen', sans-serif;
+    
+    }
+    .heading_paragraph_1{
+        margin-left: 179px;
+        color: white;
+        font-size: 28px;
+        font-size: 'Oxygen', sans-serif;
+        position: relative;
+        top: 17%;
+    }
+    .Address{
+        margin-left: 104px;
+        color: white;
+        line-height: 1.5;
+        font-size: 20px;
+        position: relative;
+        top: 21%;
+    }
+    .Delivery{
+        margin-left: 88px;
+        line-height: 1.5;
+        color:#557c3e;
+        font-size: .8em;
+        position: relative;
+        top: 24%;
+        font-size: 18px;
+        font-family: 'Oxygen', sans-serif;
+    }
+    .paragraph_1{
+        margin-left: 62px;
+        color: white;
+        line-height: 1.5;
+        font-size: 19px;
+        position: relative;
+        top: 34%;
+        font-style: italic;
+    }
+    .paragraph_2{
+        margin-left: 61px;
+        color: white;
+        line-height: 1.5;
+        font-size: 19px;
+        position: relative;
+        top: 38%;
+        font-style: italic;
+    
+    }
+    .restaurant_name{
+        color: white;
+        font-size: 22px;
+        margin-left: 125px;
+        margin-top:83% ;
+    }
+    
+    
+    
+}
